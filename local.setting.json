@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "SNOWFLAKE_CONNECTION": "account=;user=;password=;warehouse=COMPUTE_WH;db=MY_DB;schema=MY_SCH"
+  }
+}
