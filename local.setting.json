@@ -6,3 +6,11 @@
     "SNOWFLAKE_CONNECTION": "account=;user=;password=;warehouse=COMPUTE_WH;db=MY_DB;schema=MY_SCH"
   }
 }
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "StorageConnection": "DefaultEndpointsProtocol=https;AccountName=storagedhara;AccountKey=",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  }
+}
